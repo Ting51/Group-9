@@ -52,14 +52,23 @@ C108118247  | 陳冠廷
 
 ## 使用案例說明
 ![image](https://user-images.githubusercontent.com/91523666/138644212-4bdfe2d0-7e0e-4764-86b2-ea9e12f17c89.png "管理存貨狀態")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138644304-54c97c65-aa29-4e66-84b3-2e45d6a0bc62.png "同步樣本更新")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138655082-da4e8405-09f6-4206-a1a8-d89606aaafa1.png "線上樣本自由穿搭")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138655181-2bb73f56-ebbd-4ed5-bf2b-4ab32bf28a1d.png "網路下單")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138655272-7f0c26c2-56a5-45a6-9fb3-077432442cc2.png "線上付款")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138655353-66ef2912-5412-4b4a-aa7d-43e77f4580fc.png "查核帳戶資料")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138655436-664d464d-3ce8-46ad-a423-a509d35317e9.png "貨到付款")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138655512-b89affe5-c46c-467f-a568-1a36be53cf8f.png "銷售")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138655565-21b4d6a7-465a-4827-a619-fb339f7f2bd9.png "庫存量更新")
+***
 ![image](https://user-images.githubusercontent.com/91523666/138655672-c796afa8-436f-4660-861c-69ad708d0985.png "進貨")
 ***
 
