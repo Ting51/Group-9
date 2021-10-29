@@ -71,4 +71,11 @@ C108118247  | 陳冠廷
 ***
 ![image](https://user-images.githubusercontent.com/91523666/138655672-c796afa8-436f-4660-861c-69ad708d0985.png "進貨")
 ***
+## 作業三
 
+## 系統環境圖 (DFD)
+![](DFD.jpg)
+
+
+## 系統環境圖(DFD) 圖0
+![](圖0.jpg)
