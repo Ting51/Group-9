@@ -85,7 +85,7 @@ C108118247  | 陳冠廷
 ![image](https://user-images.githubusercontent.com/91523666/139802206-f26a3729-630a-4a4b-b2f3-b37470e41aa5.png "類別圖")
 ***
 ### 循序圖
-
+![image](https://user-images.githubusercontent.com/91523666/139803355-99e1b612-4443-4b9a-a83f-de3f148bd06b.png "循序圖")
 ***
 ### 活動圖
 ![image](https://user-images.githubusercontent.com/91523666/139802420-7d193194-16c6-4136-b283-76a4ee7f31d0.png "活動圖")
