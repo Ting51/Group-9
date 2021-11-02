@@ -79,3 +79,14 @@ C108118247  | 陳冠廷
 
 ## 系統環境圖(DFD) 圖0
 ![](圖0.jpg)
+***
+## 作業四
+### UML 類別圖(class Diagram)
+![image](https://user-images.githubusercontent.com/91523666/139802206-f26a3729-630a-4a4b-b2f3-b37470e41aa5.png "類別圖")
+***
+### 循序圖
+
+***
+### 活動圖
+![image](https://user-images.githubusercontent.com/91523666/139802420-7d193194-16c6-4136-b283-76a4ee7f31d0.png "活動圖")
+***
