@@ -82,7 +82,7 @@ C108118247  | 陳冠廷
 ***
 ## 作業四
 ### UML 類別圖(class Diagram)
-![image](https://user-images.githubusercontent.com/91523666/139802206-f26a3729-630a-4a4b-b2f3-b37470e41aa5.png "類別圖")
+![](UML.jpeg)
 ***
 ### 循序圖
 #### 採購
